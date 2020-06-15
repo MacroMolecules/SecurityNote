@@ -1,0 +1,28 @@
+
+/* Class = "UINavigationController"; title = "日记"; ObjectID = "APM-SF-wH8"; */
+"APM-SF-wH8.title" = "日记";
+
+/* Class = "UINavigationItem"; title = "简记"; ObjectID = "Jec-WA-VNz"; */
+"Jec-WA-VNz.title" = "简记";
+
+/* Class = "UINavigationController"; title = "备忘"; ObjectID = "Lgc-Vn-UpR"; */
+"Lgc-Vn-UpR.title" = "备忘";
+
+/* Class = "UINavigationItem"; title = "密记"; ObjectID = "gVI-xI-eQl"; */
+"gVI-xI-eQl.title" = "密记";
+
+/* Class = "UITabBarItem"; title = "备忘"; ObjectID = "hjQ-JS-Aa3"; */
+"hjQ-JS-Aa3.title" = "备忘";
+
+/* Class = "UINavigationItem"; title = "备忘"; ObjectID = "lNi-nG-wHG"; */
+"lNi-nG-wHG.title" = "备忘";
+
+/* Class = "UITableViewSection"; footerTitle = "   "; ObjectID = "qxm-KJ-75T"; */
+"qxm-KJ-75T.footerTitle" = "   ";
+
+/* Class = "UITableViewSection"; footerTitle = "  "; ObjectID = "uZh-fE-zuW"; */
+"uZh-fE-zuW.footerTitle" = "  ";
+
+/* Class = "UITabBarItem"; title = "密记"; ObjectID = "w57-Ny-63a"; */
+"w57-Ny-63a.title" = "密记";
+

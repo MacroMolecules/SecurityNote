@@ -1,0 +1,36 @@
+
+/* Class = "UINavigationController"; title = "日记"; ObjectID = "APM-SF-wH8"; */
+"APM-SF-wH8.title" = "DIARY";
+
+/* Class = "UINavigationItem"; title = "简记"; ObjectID = "Jec-WA-VNz"; */
+"Jec-WA-VNz.title" = "iSimple";
+
+/* Class = "UINavigationController"; title = "备忘"; ObjectID = "Lgc-Vn-UpR"; */
+"Lgc-Vn-UpR.title" = "MEMO";
+
+/* Class = "UINavigationItem"; title = "密记"; ObjectID = "gVI-xI-eQl"; */
+"gVI-xI-eQl.title" = "iSecret";
+
+/* Class = "UITabBarItem"; title = "备忘"; ObjectID = "hjQ-JS-Aa3"; */
+"hjQ-JS-Aa3.title" = "MEMO";
+
+/* Class = "UINavigationItem"; title = "备忘"; ObjectID = "lNi-nG-wHG"; */
+"lNi-nG-wHG.title" = "MEMO";
+
+/* Class = "UINavigationController"; title = "简记"; ObjectID = "nhj-vE-MsX"; */
+"nhj-vE-MsX.title" = "iSimple";
+
+/* Class = "UITextField"; text = "密语"; ObjectID = "ptX-aH-CKa"; */
+"ptX-aH-CKa.text" = "Bio";
+
+/* Class = "UITableViewSection"; footerTitle = "   "; ObjectID = "qxm-KJ-75T"; */
+"qxm-KJ-75T.footerTitle" = "   ";
+
+/* Class = "UITableViewSection"; footerTitle = "  "; ObjectID = "uZh-fE-zuW"; */
+"uZh-fE-zuW.footerTitle" = "  ";
+
+/* Class = "UITabBarItem"; title = "密记"; ObjectID = "w57-Ny-63a"; */
+"w57-Ny-63a.title" = "iSecret";
+
+/* Class = "UITabBarItem"; title = "简记"; ObjectID = "zZd-h0-Yn0"; */
+"zZd-h0-Yn0.title" = "iSimple";
